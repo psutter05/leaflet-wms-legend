@@ -1,0 +1,11 @@
+{
+  "name": "leaflet-wms-legend",
+  "version": "1.0.0",
+  "description": "This is a simple plugin for [leaflet](http://leafletjs.com/) that will display a  WMS GetLegendGraphic request result in a legend. At the moment the plugin is  *really, really* simple in that is actually will display any image URI you  pass it on initialisation. However that is enough to create a nice looking  legend on your map like this:",
+  "main": "leaflet.wmslegend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
